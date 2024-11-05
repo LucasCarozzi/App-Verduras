@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568321322562",
+    "project_id": "app-verduritas",
+    "storage_bucket": "app-verduritas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568321322562:android:2a20741155d90d8dfa47db",
+        "android_client_info": {
+          "package_name": "com.example.appverduritas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ebBeRM39kBtNWooXX7OoSr_F6aztHzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
